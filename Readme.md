@@ -4,4 +4,4 @@
 - 例如 缺少 fs  安装命令 npm install fs
 - 
 项目目录
-![示例图片]([https://example.com/path/to/image.jpg])
+![示例图片](https://s21.ax1x.com/2024/05/16/pkn0XPs.png)
